@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/openCVLibrary343/build/
+/openCVLibrary343/build/intermediates/javac/debug/classes/
+/openCVSamplecolorblobdetection/build/
+/openCVSamplecolorblobdetection/build/intermediates/javac/debug/classes/
